@@ -10,5 +10,6 @@
 * [Markdown Edit](https://stackedit.io/editor) a good online Markdown edit, export PDF perfectly using Chrome
 * [stackoverflow](http://stackoverflow.com) stackoverflow website
 * [Jianshu](http://www.jianshu.com/u/da467cfe4cc8)
+* [The Swift Programming Language (Swift 3.0.1)](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/index.html#//apple_ref/doc/uid/TP40014097-CH3-XID_0) online document
 
 =============
