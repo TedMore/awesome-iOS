@@ -9,4 +9,6 @@
 * [Swift third library](http://www.ioscookies.com/) swift good third party library and search in the website
 * [Markdown Edit](https://stackedit.io/editor) a good online Markdown edit, export PDF perfectly using Chrome
 * [stackoverflow](http://stackoverflow.com) stackoverflow website
+* [Jianshu](http://www.jianshu.com/u/da467cfe4cc8)
+
 =============
