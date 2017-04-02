@@ -10,5 +10,7 @@ This file is to record common used website.
 * [简书](http://www.jianshu.com)
 * [Twitter](https://twitter.com)
 * [Facebook](https://www.facebook.com)
+* [YouTube](https://www.youtube.com)
+* [Green VPN](https://www.greenjsq.me)
 * [Apple developer library](https://developer.apple.com/library/prerelease/content/navigation)
 * [酷狗](http://www.kugou.com)
