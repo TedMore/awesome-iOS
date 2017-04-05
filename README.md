@@ -1,5 +1,5 @@
 # awesome-iOS
-Swift指南汇集主要学习资源，以开发者学习视角整理编排而成。
+本文主要汇集Swift学习相关资源，以方便初学者或中高级开发者学习参考，欢迎大家共同参与维护。
 
 ----------
 ##目录结构
@@ -13,21 +13,18 @@ Swift指南汇集主要学习资源，以开发者学习视角整理编排而成
 
 ----------
 ## <a id="welcome"></a>0#入门指南
-
-Swift开源及跨平台开发，可以关注 [swift.org](https://swift.org/)
-
-苹果为 [Swift](http://www.apple.com/swift/)（[中文介绍](http://www.apple.com/cn/swift/)）开发者提供的[官方文档入口](https://developer.apple.com/swift/)，包括 [概述](https://developer.apple.com/swift/)，[博客](https://developer.apple.com/swift/blog/)（[中文镜像](https://github.com/ipader/SwiftGuide/tree/master/mirror/Swift%20Blog%20-%20Apple%20Developer)）及 [开发资源](https://developer.apple.com/swift/resources/)。其中以下几份文档（Swift 2.1）为入门级必备（[iBooks 版](https://itunes.apple.com/us/book-series/swift-programming-series/id888896989?mt=11)）：
+苹果为 [Swift](http://www.apple.com/swift/)（[中文介绍](http://www.apple.com/cn/swift/)）开发者提供的[官方文档入口](https://developer.apple.com/swift/)，包括 [概述](https://developer.apple.com/swift/)，[博客](https://developer.apple.com/swift/blog/)（[中文镜像](https://github.com/ipader/SwiftGuide/tree/master/mirror/Swift%20Blog%20-%20Apple%20Developer)）及 [开发资源](https://developer.apple.com/swift/resources/)。其中以下几份文档（Swift 3）为入门级必备（[iBooks 版](https://itunes.apple.com/us/book-series/swift-programming-series/id888896989?mt=11)）：
 
 * [Swift Programming Language](https://developer.apple.com/swift/)（[中文版](http://gg.swiftguide.cn)｜[PDF 版](http://wiki.jikexueyuan.com/download/swift/pdf/) By [SwiftGG翻译组](http://weibo.com/swiftguide)）
 
 * [Start Developing iOS Apps](https://developer.apple.com/swift/resources/) 
 * [Using Swift with Cocoa and Objective-C](https://developer.apple.com/library/ios/documentation/Swift/Conceptual/BuildingCocoaApps/index.html)（[中文版](https://github.com/CocoaChina-editors/Welcome-to-Swift/blob/master/UsingSwiftwithCocoaandObjective-C%E4%B8%AD%E6%96%87%E6%89%8B%E5%86%8C.md) By [@CocoaChina](http://weibo.com/cocoachina)）
 
-*苹果同时也维护着相应 Beta 版（Swift 2.2）文档：[Swift Programming Language](https://developer.apple.com/library/prerelease/ios/documentation/Swift/Conceptual/Swift_Programming_Language/index.html)，[Start Developing iOS Apps](https://developer.apple.com/library/prerelease/ios/referencelibrary/GettingStarted/DevelopiOSAppsSwift/index.html)，[Using Swift with Cocoa and Objective-C](https://developer.apple.com/library/prerelease/ios/documentation/Swift/Conceptual/BuildingCocoaApps/index.html)。*
+*苹果同时也维护着相应 Beta 版（Swift 3）文档：[Swift Programming Language](https://developer.apple.com/library/prerelease/ios/documentation/Swift/Conceptual/Swift_Programming_Language/index.html)，[Start Developing iOS Apps](https://developer.apple.com/library/prerelease/ios/referencelibrary/GettingStarted/DevelopiOSAppsSwift/index.html)，[Using Swift with Cocoa and Objective-C](https://developer.apple.com/library/prerelease/ios/documentation/Swift/Conceptual/BuildingCocoaApps/index.html)。*
 
 学习实践的角度，标准库示例代码 [Swift Standard Library.playground](https://developer.apple.com/sample-code/swift/downloads/Standard-Library.zip) 是很棒的学习伴侣。
 
-
+如果是Swift开源及跨平台开发，可以关注 [swift.org](https://swift.org/)
 
 ----------
 ## <a id="dev_tools"></a>1#开发工具
@@ -35,6 +32,8 @@ Swift开源及跨平台开发，可以关注 [swift.org](https://swift.org/)
 * [Xcode 下载](https://developer.apple.com/swift/resources/)：苹果应用集成开发环境。支持 C/C++, Objective C, Swift 等。不用购买开发者计划，直接下载。
 * [Textmate](http://macromates.com/)：Mac OS X 上一个可高度自定义的编辑器，尤其在我想做出一个快速改变但又不想等待 Xcode 加载的时候。该工具目前已经[开源](https://github.com/textmate/textmate)
 * [Mou](http://mouapp.com/)：OS X 上一款 Markdown 的编辑器。非常适用于编写自述文件、变更日志以及其他方面的内容。作者：[罗晨](http://chenluois.com/)
+* [MacDown](https://macdown.uranusjr.com/): macOS上一款非常好用的开源Markdown编辑器。
+* [Markdown Edit](https://stackedit.io/editor) a good online Markdown edit, export PDF perfectly using Chrome
 * [Sublime Text ($)](http://www.sublimetext.com/)：Mac OS X 上另一款非常受欢迎的轻量级，可高度自定义的编辑器。
 * [RunSwift](http://www.runswiftlang.com/):正在犹豫是否入手苹果电脑开始一段 Swift 编程旅程的同学们，或仅仅为了试验一段简单 Swift 代码又懒得打开 Xcode，可以试试这款 Web 版 Swift 编译环境 RunSwift。
 * [InfinitApps - Bezel](http://infinitapps.com/bezel/)：“嫌 Xcode 6 目前提供的 Watch 模拟器不够直观？Bezel 是一个用于视觉预览 WatchKit 所开发程序效果的小工具，前提是你安装了 xScope 软件（Mac端）或 xScopeMirror（iPhone端）。 By [@WatchKit开发](http://weibo.com/twios)”
@@ -83,9 +82,12 @@ Swift开源及跨平台开发，可以关注 [swift.org](https://swift.org/)
 
 ## <a id="doc_cources"></a>2#文档教程
 
-教程方面，苹果力荐了斯坦福课程 [Stanford University: Developing iOS 8 Apps with Swift](https://itunes.com/StanfordSwift)（[中文字幕版](http://open.163.com/special/opencourse/ios8.html) By [@网易公开课](http://weibo.com/163open)）
+视频教程方面，苹果力荐了斯坦福课程 [Stanford University: Developing iOS 8 Apps with Swift](https://itunes.com/StanfordSwift)（[中文字幕版](http://open.163.com/special/opencourse/ios8.html) By [@网易公开课](http://weibo.com/163open)）
 
 [iOS Developer Library](https://developer.apple.com/library/ios/navigation/) 还为开发者提供了更庞大、系统化的开发文档支持。
+
+* [The Swift Programming Language (Swift 3.0.1)](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/index.html#//apple_ref/doc/uid/TP40014097-CH3-XID_0) online document
+
 
 以下列举了几份已有第三方中文翻译文档：
 
@@ -129,8 +131,4 @@ Swift开源及跨平台开发，可以关注 [swift.org](https://swift.org/)
 * [Library and tools for iOS](https://github.com/joeljfischer/awesome-apple/blob/master/README.md) A list of awesome 3rd party libraries and tools for Apple platform development, iOS and Mac
 * [MobDevGroup](http://mobdevgroup.com) iOS design and tool
 * [Swift third library](http://www.ioscookies.com/) swift good third party library and search in the website
-* [Markdown Edit](https://stackedit.io/editor) a good online Markdown edit, export PDF perfectly using Chrome
-* [stackoverflow](http://stackoverflow.com) stackoverflow website
 * [Jianshu](http://www.jianshu.com/u/da467cfe4cc8)
-* [The Swift Programming Language (Swift 3.0.1)](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/index.html#//apple_ref/doc/uid/TP40014097-CH3-XID_0) online document
-* [C++](http://www.cplusplus.com/info/)

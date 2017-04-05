@@ -3,6 +3,8 @@ This file is to record common used website.
 
 ----------
 * [Github](https://github.com)
+* [C++](http://www.cplusplus.com/info/) cplusplus
+* [stackoverflow](http://stackoverflow.com) stackoverflow website
 * [奇妙清单](https://www.wunderlist.com)
 * [百度网盘](https://pan.baidu.com)
 * [有道云笔记](http://note.youdao.com)
